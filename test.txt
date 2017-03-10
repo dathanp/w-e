@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9EC7-F0BB
+
+ Directory of C:\w-e
+
+03/10/2017  03:55 PM    <DIR>          .
+03/10/2017  03:55 PM    <DIR>          ..
+03/10/2017  03:48 PM                10 README.md
+03/10/2017  03:55 PM                 0 test.txt
+               2 File(s)             10 bytes
+               2 Dir(s)  12,612,931,584 bytes free
